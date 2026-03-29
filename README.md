@@ -9,7 +9,7 @@ Registration No:
 Branch:
 Year:
 
-Module Summaries
+# Module Summaries
 
 Module 1: Visual Awareness (Canva)
 
