@@ -10,14 +10,16 @@ Registration No: 25BCE10255
 
 Branch: Computer Science Core
 
-# Module Summaries
+# Module Summarize 
 
 Module 1: Visual Awareness (Canva)
 
-Created a one-page high-impact infographic focusing on digital toolsets and online etiquette.
+Created a one-page high impact infographic focusing on digital toolsets and online ettiqutte
 
-1. Focus: Visual hierarchy and "Z-pattern" design for better retention.
-2. Artifact: Check task-1-presentation/ for the final design.
+1. Key Focus: Visual hierarchy and "Z pattern" design for better retention.
+2. Artifact: Check task-1-presentation/ .
+ 
+
 
 Module 2: Professional Portfolio 
 
