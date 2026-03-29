@@ -15,7 +15,6 @@ Year:
 # Module Summaries
 
 Module 1: Visual Awareness (Canva)
-
 Created a one-page high-impact infographic focusing on digital toolsets and online etiquette.
 
 1. Focus: Visual hierarchy and "Z-pattern" design for better retention.
