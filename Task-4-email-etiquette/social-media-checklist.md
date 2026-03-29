@@ -6,7 +6,7 @@ Do's
 
 3) Give credit where it's due. Always cite original creators when sharing art, photos, or intellectual property.
 
-4)Use your platform for good. Share your achievements, volunteer work, and professional milestones. 
+4) Use your platform for good. Share your achievements, volunteer work, and professional milestones. 
 
 5) Verify information before sharing. Check the facts to avoid spreading "fake news" or misinformation.
 
