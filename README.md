@@ -50,8 +50,9 @@ Reasearched a detailed case study on UPI/Oniline Payment Fraud and developes a l
 
 Digital Literacy Quiz: https://docs.google.com/forms/d/e/1FAIpQLScaYr-gNNfk-XQOlLpfQ5sTcz7jEEn0qZLwkTq7L1Y0Rq02BA/viewform?usp=header
 
+LinkedIn: www.linkedin.com/in/naman-6022b23bb
 
-
+Kaggle: https://www.kaggle.com/namanthakral
 
 # Emergency Reporting (India)
 
